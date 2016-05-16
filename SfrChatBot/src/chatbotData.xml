@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chatbot>
+	<!-- ici ce sont justement les reponses que l'on apporte -->
+	<menuItem>
+		<value>Payer ma facture</value>
+		<keywords>
+			<keyword>payer</keyword>
+			<keyword>facture</keyword>
+			<keyword>payer facture</keyword>
+			<keyword>je souhaiterai payer ma facture</keyword>
+			<keyword>je souhaiterai regler ma facture</keyword>
+		</keywords>
+	</menuItem>
+
+
+	<menuItem>
+		<value>Régler mes impayés</value>
+		<keywords>
+			<keyword>payer</keyword>
+			<keyword>facture</keyword>
+			<keyword>impayes</keyword>
+			<keyword>retard paiement</keyword>	
+		</keywords>
+	</menuItem>
+
+
+	<menuItem>
+		<value>reclamation</value>
+		<keywords>
+			<keyword>reclamation</keyword>
+			<keyword>j'ai une réclamation à faire</keyword>
+			<keyword>problème</keyword>
+			<keyword>autre</keyword>
+			<keyword>erreur de prélèvement</keyword>
+			<keyword>cela concerne une surfacturation</keyword>
+		</keywords>
+	</menuItem>
+
+	<menuItem>
+		<value>changer de forfait</value>
+		<keywords>
+			<keyword>forfait</keyword>
+			<keyword>j'ai une question concernant mon forfait</keyword>
+			<keyword>je voudrais changer de forfait</keyword>
+			<keyword>abonnement</keyword>
+			<keyword>changer forfait</keyword>
+		</keywords>
+	</menuItem>
+</chatbot>
+
